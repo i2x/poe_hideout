@@ -1,30 +1,48 @@
 Language = "English"
 Hideout Name = "Coral Hideout"
 Hideout Hash = 18035
+Music Name = "Lioneye's Watch (A1)"
+Music Hash = 58824
 
 Stash = { Hash=3230065491, X=635, Y=373, Rot=17917, Flip=0, Var=0 }
-Guild Stash = { Hash=139228481, X=571, Y=647, Rot=43171, Flip=0, Var=0 }
-Waypoint = { Hash=1224707366, X=596, Y=330, Rot=48877, Flip=0, Var=5 }
+Guild Stash = { Hash=139228481, X=623, Y=350, Rot=8460, Flip=0, Var=0 }
+Waypoint = { Hash=1224707366, X=595, Y=333, Rot=48877, Flip=0, Var=9 }
 Crafting Bench = { Hash=2059629901, X=632, Y=395, Rot=52491, Flip=0, Var=3 }
 Map Device = { Hash=2306038834, X=590, Y=419, Rot=169, Flip=0, Var=0 }
+Tane Octavius = { Hash=4285419720, X=605, Y=333, Rot=4387, Flip=0, Var=0 }
+Kirac = { Hash=2913423765, X=629, Y=461, Rot=54123, Flip=0, Var=0 }
+Sister Cassia = { Hash=10623884, X=500, Y=300, Rot=54104, Flip=0, Var=0 }
 Navali = { Hash=693228958, X=633, Y=381, Rot=45208, Flip=0, Var=0 }
 Einhar = { Hash=2684274993, X=619, Y=485, Rot=59414, Flip=0, Var=0 }
 Alva = { Hash=2115859440, X=554, Y=452, Rot=5145, Flip=0, Var=0 }
-Helena = { Hash=845403974, X=579, Y=330, Rot=12981, Flip=0, Var=0 }
-Niko = { Hash=2906227343, X=505, Y=330, Rot=61187, Flip=0, Var=0 }
-Jun = { Hash=3992724805, X=644, Y=428, Rot=48664, Flip=0, Var=0 }
-Zana = { Hash=3506797600, X=631, Y=462, Rot=58189, Flip=0, Var=0 }
+Helena = { Hash=845403974, X=582, Y=335, Rot=58579, Flip=0, Var=0 }
+Niko = { Hash=2906227343, X=502, Y=330, Rot=62157, Flip=0, Var=0 }
+Jun = { Hash=3992724805, X=643, Y=426, Rot=51240, Flip=0, Var=0 }
+Zana = { Hash=3506797600, X=631, Y=451, Rot=57633, Flip=0, Var=0 }
+Large Crypt Rubble = { Hash=3910420264, X=544, Y=347, Rot=42542, Flip=0, Var=0 }
 Vaal Debris = { Hash=720040074, X=513, Y=296, Rot=0, Flip=0, Var=0 }
 Scattered Papers = { Hash=721892162, X=652, Y=451, Rot=0, Flip=0, Var=6 }
 Scattered Papers = { Hash=721892162, X=641, Y=469, Rot=0, Flip=0, Var=0 }
 Relic Case = { Hash=3402781942, X=628, Y=475, Rot=56557, Flip=0, Var=7 }
-Large Crypt Rubble = { Hash=3910420264, X=544, Y=347, Rot=42542, Flip=0, Var=0 }
+Library Book Pile = { Hash=3868625855, X=654, Y=449, Rot=0, Flip=0, Var=0 }
+Sewer Moss = { Hash=3932176902, X=602, Y=362, Rot=0, Flip=0, Var=0 }
+Sewer Moss = { Hash=3932176902, X=583, Y=375, Rot=0, Flip=0, Var=2 }
+Sewer Moss = { Hash=3932176902, X=563, Y=412, Rot=0, Flip=0, Var=4 }
+Sewer Moss = { Hash=3932176902, X=591, Y=401, Rot=0, Flip=0, Var=0 }
+Sewer Moss = { Hash=3932176902, X=543, Y=382, Rot=0, Flip=0, Var=7 }
+Large Crypt Rubble = { Hash=3910420264, X=539, Y=475, Rot=61281, Flip=0, Var=5 }
+Sewer Moss = { Hash=3932176902, X=615, Y=405, Rot=0, Flip=0, Var=7 }
+Sewer Moss = { Hash=3932176902, X=619, Y=389, Rot=0, Flip=0, Var=6 }
+Sewer Moss = { Hash=3932176902, X=569, Y=399, Rot=0, Flip=0, Var=1 }
+Scattered Papers = { Hash=721892162, X=535, Y=411, Rot=0, Flip=0, Var=5 }
 Stone Pieces = { Hash=1566776343, X=508, Y=376, Rot=0, Flip=0, Var=0 }
 Stone Pieces = { Hash=1566776343, X=505, Y=375, Rot=0, Flip=0, Var=0 }
 Stone Pieces = { Hash=1566776343, X=503, Y=372, Rot=0, Flip=0, Var=0 }
 Stone Pieces = { Hash=1566776343, X=499, Y=370, Rot=0, Flip=0, Var=0 }
 Stone Pieces = { Hash=1566776343, X=497, Y=365, Rot=0, Flip=0, Var=0 }
 Stone Pieces = { Hash=1566776343, X=491, Y=360, Rot=0, Flip=0, Var=0 }
+Lush Tree = { Hash=2130730425, X=548, Y=472, Rot=0, Flip=0, Var=8 }
+Lush Tree = { Hash=2130730425, X=537, Y=451, Rot=0, Flip=0, Var=5 }
 Den Large Stalagmites = { Hash=3479810897, X=535, Y=294, Rot=9056, Flip=0, Var=0 }
 Garden Path = { Hash=2866336567, X=570, Y=347, Rot=0, Flip=0, Var=5 }
 Garden Path = { Hash=2866336567, X=593, Y=401, Rot=0, Flip=0, Var=5 }
@@ -71,11 +89,23 @@ Garden Path = { Hash=2866336567, X=535, Y=444, Rot=0, Flip=0, Var=5 }
 Garden Path = { Hash=2866336567, X=521, Y=407, Rot=0, Flip=0, Var=4 }
 Garden Path = { Hash=2866336567, X=604, Y=364, Rot=0, Flip=0, Var=5 }
 Garden Path = { Hash=2866336567, X=591, Y=350, Rot=0, Flip=0, Var=5 }
+Animal Cage = { Hash=4153364414, X=623, Y=502, Rot=57673, Flip=0, Var=3 }
 Garden Path = { Hash=2866336567, X=616, Y=347, Rot=0, Flip=0, Var=5 }
 Garden Path = { Hash=2866336567, X=602, Y=335, Rot=0, Flip=0, Var=5 }
 Garden Path = { Hash=2866336567, X=624, Y=333, Rot=0, Flip=0, Var=5 }
-Animal Cage = { Hash=4153364414, X=623, Y=502, Rot=57673, Flip=0, Var=3 }
 Garden Path = { Hash=2866336567, X=589, Y=331, Rot=0, Flip=0, Var=5 }
+Garden Path = { Hash=2866336567, X=599, Y=383, Rot=0, Flip=0, Var=4 }
+Garden Path = { Hash=2866336567, X=626, Y=376, Rot=0, Flip=0, Var=5 }
+Garden Path = { Hash=2866336567, X=635, Y=358, Rot=0, Flip=0, Var=5 }
+Garden Path = { Hash=2866336567, X=619, Y=361, Rot=6632, Flip=0, Var=1 }
+Garden Path = { Hash=2866336567, X=628, Y=396, Rot=0, Flip=0, Var=5 }
+Garden Path = { Hash=2866336567, X=612, Y=392, Rot=3985, Flip=0, Var=5 }
+Garden Path = { Hash=2866336567, X=611, Y=410, Rot=0, Flip=0, Var=5 }
+Garden Path = { Hash=2866336567, X=625, Y=425, Rot=0, Flip=0, Var=5 }
+Garden Path = { Hash=2866336567, X=580, Y=385, Rot=0, Flip=0, Var=5 }
+Garden Path = { Hash=2866336567, X=560, Y=377, Rot=3898, Flip=0, Var=5 }
+Oriath Armour Crate = { Hash=1891653249, X=637, Y=342, Rot=46729, Flip=0, Var=0 }
+Oriath Armour Crate = { Hash=1891653249, X=547, Y=366, Rot=64253, Flip=0, Var=7 }
 Agave Plant = { Hash=1836501205, X=636, Y=356, Rot=6438, Flip=0, Var=12 }
 Agave Plant = { Hash=1836501205, X=574, Y=323, Rot=0, Flip=0, Var=13 }
 Agave Plant = { Hash=1836501205, X=537, Y=394, Rot=27612, Flip=0, Var=5 }
@@ -84,9 +114,10 @@ Agave Plant = { Hash=1836501205, X=617, Y=437, Rot=0, Flip=0, Var=7 }
 Agave Plant = { Hash=1836501205, X=575, Y=452, Rot=0, Flip=0, Var=12 }
 Agave Plant = { Hash=1836501205, X=607, Y=383, Rot=0, Flip=0, Var=13 }
 Agave Plant = { Hash=1836501205, X=562, Y=327, Rot=0, Flip=0, Var=13 }
-Aloe Plant = { Hash=973414046, X=611, Y=356, Rot=0, Flip=0, Var=0 }
+Aloe Plant = { Hash=973414046, X=610, Y=357, Rot=0, Flip=0, Var=0 }
 Desert Plants = { Hash=2216989995, X=602, Y=501, Rot=0, Flip=0, Var=18 }
 Desert Plants = { Hash=2216989995, X=545, Y=429, Rot=0, Flip=0, Var=0 }
+Macrotaen Plant = { Hash=2482760258, X=566, Y=505, Rot=0, Flip=0, Var=10 }
 Poppy Plant = { Hash=1851713313, X=626, Y=360, Rot=0, Flip=0, Var=11 }
 Poppy Plant = { Hash=1851713313, X=620, Y=337, Rot=0, Flip=0, Var=11 }
 Poppy Plant = { Hash=1851713313, X=634, Y=348, Rot=0, Flip=0, Var=10 }
@@ -99,26 +130,27 @@ Poppy Plant = { Hash=1851713313, X=596, Y=372, Rot=0, Flip=0, Var=11 }
 Poppy Plant = { Hash=1851713313, X=555, Y=406, Rot=0, Flip=0, Var=10 }
 Poppy Plant = { Hash=1851713313, X=574, Y=388, Rot=0, Flip=0, Var=10 }
 Poppy Plant = { Hash=1851713313, X=588, Y=384, Rot=0, Flip=0, Var=11 }
-Macrotaen Plant = { Hash=2482760258, X=566, Y=505, Rot=0, Flip=0, Var=10 }
 Medium Tent = { Hash=190195868, X=656, Y=488, Rot=37433, Flip=0, Var=1 }
-Lush Tree = { Hash=2130730425, X=548, Y=472, Rot=0, Flip=0, Var=8 }
-Lush Tree = { Hash=2130730425, X=537, Y=451, Rot=0, Flip=0, Var=5 }
-Sewer Moss = { Hash=3932176902, X=602, Y=362, Rot=0, Flip=0, Var=0 }
-Sewer Moss = { Hash=3932176902, X=583, Y=375, Rot=0, Flip=0, Var=2 }
-Sewer Moss = { Hash=3932176902, X=563, Y=412, Rot=0, Flip=0, Var=4 }
-Sewer Moss = { Hash=3932176902, X=591, Y=401, Rot=0, Flip=0, Var=0 }
-Sewer Moss = { Hash=3932176902, X=543, Y=382, Rot=0, Flip=0, Var=7 }
-Sewer Moss = { Hash=3932176902, X=615, Y=405, Rot=0, Flip=0, Var=7 }
-Sewer Moss = { Hash=3932176902, X=619, Y=389, Rot=0, Flip=0, Var=6 }
-Sewer Moss = { Hash=3932176902, X=569, Y=399, Rot=0, Flip=0, Var=1 }
+Tree = { Hash=1654000752, X=603, Y=515, Rot=0, Flip=0, Var=8 }
+Tree = { Hash=1654000752, X=640, Y=365, Rot=0, Flip=0, Var=0 }
+Tree = { Hash=1654000752, X=564, Y=501, Rot=0, Flip=0, Var=5 }
+Tree = { Hash=1654000752, X=561, Y=479, Rot=0, Flip=0, Var=3 }
+Garden Statue = { Hash=1627825739, X=632, Y=394, Rot=54861, Flip=0, Var=4 }
+Tree = { Hash=1654000752, X=519, Y=408, Rot=0, Flip=0, Var=0 }
+Ornate Planter = { Hash=4239052294, X=612, Y=352, Rot=0, Flip=0, Var=24 }
+Ornate Planter = { Hash=4239052294, X=578, Y=351, Rot=0, Flip=0, Var=24 }
+Tree = { Hash=1654000752, X=619, Y=327, Rot=0, Flip=0, Var=0 }
+Tree = { Hash=1654000752, X=469, Y=365, Rot=0, Flip=0, Var=0 }
+Mushroom Cluster = { Hash=2747786415, X=628, Y=362, Rot=0, Flip=0, Var=28 }
 Sewer Moss = { Hash=3932176902, X=594, Y=473, Rot=36733, Flip=0, Var=1 }
 Sewer Moss = { Hash=3932176902, X=575, Y=465, Rot=0, Flip=0, Var=7 }
 Sewer Moss = { Hash=3932176902, X=604, Y=457, Rot=0, Flip=0, Var=0 }
-Oriath Armour Crate = { Hash=1891653249, X=637, Y=342, Rot=46729, Flip=0, Var=0 }
-Oriath Armour Crate = { Hash=1891653249, X=547, Y=366, Rot=64253, Flip=0, Var=7 }
 Oriath Army Barrel = { Hash=621951002, X=571, Y=363, Rot=0, Flip=0, Var=3 }
-Mushroom Cluster = { Hash=2747786415, X=628, Y=362, Rot=0, Flip=0, Var=28 }
-Library Book Pile = { Hash=3868625855, X=654, Y=449, Rot=0, Flip=0, Var=0 }
+Scattered Papers = { Hash=721892162, X=529, Y=414, Rot=0, Flip=0, Var=0 }
+Bamboo Floor = { Hash=2288215444, X=608, Y=323, Rot=46511, Flip=0, Var=2 }
+Bamboo Floor = { Hash=2288215444, X=585, Y=326, Rot=63425, Flip=0, Var=2 }
+Bamboo Floor = { Hash=2288215444, X=599, Y=325, Rot=2076, Flip=0, Var=3 }
+Coffee Table = { Hash=1165256748, X=640, Y=430, Rot=0, Flip=0, Var=1 }
 Lava Glow = { Hash=3473832123, X=592, Y=420, Rot=0, Flip=0, Var=0 }
 Oriath Statue = { Hash=596544799, X=591, Y=419, Rot=496, Flip=0, Var=0 }
 Sky Shrine Rubble = { Hash=283498947, X=638, Y=342, Rot=0, Flip=0, Var=2 }
@@ -134,57 +166,37 @@ Oriath Lantern = { Hash=2325221726, X=654, Y=463, Rot=5280, Flip=0, Var=1 }
 Oriath Lantern = { Hash=2325221726, X=512, Y=323, Rot=54189, Flip=0, Var=1 }
 Courthouse Desk = { Hash=4119296993, X=645, Y=465, Rot=51144, Flip=0, Var=2 }
 Glowing Embers = { Hash=3678754958, X=511, Y=339, Rot=0, Flip=0, Var=0 }
-Large Crypt Rubble = { Hash=3910420264, X=539, Y=475, Rot=61281, Flip=0, Var=5 }
-Tree = { Hash=1654000752, X=603, Y=515, Rot=0, Flip=0, Var=8 }
-Tree = { Hash=1654000752, X=640, Y=365, Rot=0, Flip=0, Var=0 }
-Tree = { Hash=1654000752, X=564, Y=501, Rot=0, Flip=0, Var=5 }
-Tree = { Hash=1654000752, X=561, Y=479, Rot=0, Flip=0, Var=3 }
-Tree = { Hash=1654000752, X=519, Y=408, Rot=0, Flip=0, Var=0 }
-Tree = { Hash=1654000752, X=619, Y=327, Rot=0, Flip=0, Var=0 }
-Tree = { Hash=1654000752, X=469, Y=365, Rot=0, Flip=0, Var=0 }
-Mine Rock = { Hash=2837612749, X=510, Y=318, Rot=0, Flip=0, Var=22 }
-Mine Rock = { Hash=2837612749, X=507, Y=308, Rot=0, Flip=0, Var=22 }
-Mine Rock = { Hash=2837612749, X=510, Y=301, Rot=0, Flip=0, Var=22 }
-Map Board = { Hash=3335254637, X=654, Y=431, Rot=51644, Flip=0, Var=8 }
-Mine Rock = { Hash=2837612749, X=505, Y=343, Rot=0, Flip=0, Var=22 }
-Scattered Papers = { Hash=721892162, X=535, Y=411, Rot=0, Flip=0, Var=5 }
-Mine Rock = { Hash=2837612749, X=499, Y=342, Rot=0, Flip=0, Var=22 }
-Mine Rock = { Hash=2837612749, X=523, Y=305, Rot=0, Flip=0, Var=22 }
-Agave Plant = { Hash=1836501205, X=560, Y=384, Rot=0, Flip=0, Var=6 }
-Scattered Papers = { Hash=721892162, X=529, Y=414, Rot=0, Flip=0, Var=0 }
-Garden Path = { Hash=2866336567, X=599, Y=383, Rot=0, Flip=0, Var=4 }
-Garden Path = { Hash=2866336567, X=626, Y=376, Rot=0, Flip=0, Var=5 }
-Garden Path = { Hash=2866336567, X=635, Y=358, Rot=0, Flip=0, Var=5 }
-Garden Path = { Hash=2866336567, X=619, Y=361, Rot=6632, Flip=0, Var=1 }
-Garden Path = { Hash=2866336567, X=628, Y=396, Rot=0, Flip=0, Var=5 }
-Garden Path = { Hash=2866336567, X=612, Y=392, Rot=3985, Flip=0, Var=5 }
-Garden Path = { Hash=2866336567, X=611, Y=410, Rot=0, Flip=0, Var=5 }
-Garden Path = { Hash=2866336567, X=625, Y=425, Rot=0, Flip=0, Var=5 }
-Garden Path = { Hash=2866336567, X=580, Y=385, Rot=0, Flip=0, Var=5 }
-Garden Path = { Hash=2866336567, X=560, Y=377, Rot=3898, Flip=0, Var=5 }
-Garden Path = { Hash=2866336567, X=527, Y=380, Rot=0, Flip=0, Var=4 }
-Garden Path = { Hash=2866336567, X=533, Y=392, Rot=0, Flip=0, Var=5 }
-Garden Path = { Hash=2866336567, X=525, Y=383, Rot=0, Flip=0, Var=5 }
-Burned Books = { Hash=3000724333, X=509, Y=343, Rot=0, Flip=0, Var=0 }
-Garden Path = { Hash=2866336567, X=521, Y=390, Rot=0, Flip=0, Var=4 }
-Garden Path = { Hash=2866336567, X=523, Y=369, Rot=0, Flip=0, Var=4 }
-Garden Path = { Hash=2866336567, X=588, Y=370, Rot=0, Flip=0, Var=5 }
-Garden Path = { Hash=2866336567, X=573, Y=362, Rot=58872, Flip=0, Var=5 }
-Coffee Table = { Hash=1165256748, X=640, Y=430, Rot=0, Flip=0, Var=1 }
 Planter Box = { Hash=2472354135, X=539, Y=371, Rot=0, Flip=0, Var=0 }
 Planter Box = { Hash=2472354135, X=622, Y=341, Rot=61423, Flip=0, Var=0 }
 Planter Box = { Hash=2472354135, X=561, Y=359, Rot=0, Flip=0, Var=0 }
 Planter Box = { Hash=2472354135, X=633, Y=446, Rot=0, Flip=0, Var=0 }
-Justice Statue = { Hash=498648411, X=541, Y=441, Rot=4413, Flip=0, Var=1 }
-Garden Statue = { Hash=1627825739, X=632, Y=394, Rot=54861, Flip=0, Var=4 }
-Ornate Planter = { Hash=4239052294, X=578, Y=343, Rot=0, Flip=0, Var=24 }
-Plant Pot = { Hash=4245683006, X=560, Y=462, Rot=57522, Flip=0, Var=0 }
-Plant Pot = { Hash=4245683006, X=551, Y=444, Rot=0, Flip=0, Var=0 }
-Ornate Planter = { Hash=4239052294, X=611, Y=356, Rot=0, Flip=0, Var=24 }
-Ornate Planter = { Hash=4239052294, X=610, Y=345, Rot=0, Flip=0, Var=24 }
-Ornate Planter = { Hash=4239052294, X=577, Y=354, Rot=0, Flip=0, Var=24 }
+Map Board = { Hash=3335254637, X=654, Y=431, Rot=51644, Flip=0, Var=8 }
+Mine Rock = { Hash=2837612749, X=510, Y=318, Rot=0, Flip=0, Var=22 }
+Mine Rock = { Hash=2837612749, X=507, Y=308, Rot=0, Flip=0, Var=22 }
+Mine Rock = { Hash=2837612749, X=510, Y=301, Rot=0, Flip=0, Var=22 }
+Mine Rock = { Hash=2837612749, X=505, Y=343, Rot=0, Flip=0, Var=22 }
+Mine Rock = { Hash=2837612749, X=499, Y=342, Rot=0, Flip=0, Var=22 }
+Mine Rock = { Hash=2837612749, X=523, Y=305, Rot=0, Flip=0, Var=22 }
+Agave Plant = { Hash=1836501205, X=560, Y=384, Rot=0, Flip=0, Var=6 }
+Garden Path = { Hash=2866336567, X=527, Y=380, Rot=0, Flip=0, Var=4 }
+Garden Path = { Hash=2866336567, X=533, Y=392, Rot=0, Flip=0, Var=5 }
+Garden Path = { Hash=2866336567, X=525, Y=383, Rot=0, Flip=0, Var=5 }
+Garden Path = { Hash=2866336567, X=521, Y=390, Rot=0, Flip=0, Var=4 }
+Garden Path = { Hash=2866336567, X=523, Y=369, Rot=0, Flip=0, Var=4 }
+Garden Path = { Hash=2866336567, X=588, Y=370, Rot=0, Flip=0, Var=5 }
+Garden Path = { Hash=2866336567, X=573, Y=362, Rot=58872, Flip=0, Var=5 }
 Garden Path = { Hash=2866336567, X=572, Y=417, Rot=0, Flip=0, Var=0 }
 Garden Path = { Hash=2866336567, X=583, Y=424, Rot=0, Flip=0, Var=5 }
-Bamboo Floor = { Hash=2288215444, X=608, Y=323, Rot=46511, Flip=0, Var=2 }
-Bamboo Floor = { Hash=2288215444, X=585, Y=326, Rot=63425, Flip=0, Var=2 }
-Bamboo Floor = { Hash=2288215444, X=599, Y=325, Rot=2076, Flip=0, Var=3 }
+Burned Books = { Hash=3000724333, X=509, Y=343, Rot=0, Flip=0, Var=0 }
+Justice Statue = { Hash=498648411, X=541, Y=441, Rot=4413, Flip=0, Var=1 }
+Plant Pot = { Hash=4245683006, X=560, Y=462, Rot=57522, Flip=0, Var=0 }
+Plant Pot = { Hash=4245683006, X=551, Y=444, Rot=0, Flip=0, Var=0 }
+Garden Path = { Hash=2866336567, X=568, Y=387, Rot=0, Flip=0, Var=0 }
+Garden Path = { Hash=2866336567, X=525, Y=394, Rot=0, Flip=0, Var=0 }
+Garden Path = { Hash=2866336567, X=581, Y=410, Rot=0, Flip=0, Var=0 }
+Garden Path = { Hash=2866336567, X=602, Y=349, Rot=0, Flip=0, Var=0 }
+Garden Path = { Hash=2866336567, X=588, Y=502, Rot=0, Flip=0, Var=0 }
+Garden Path = { Hash=2866336567, X=599, Y=504, Rot=0, Flip=0, Var=0 }
+Garden Path = { Hash=2866336567, X=601, Y=508, Rot=0, Flip=0, Var=3 }
+Garden Path = { Hash=2866336567, X=594, Y=441, Rot=0, Flip=0, Var=0 }
+Garden Path = { Hash=2866336567, X=611, Y=424, Rot=0, Flip=0, Var=5 }
